@@ -1,0 +1,5 @@
+classes=1
+train=../mouse_yolotest/cfg/train.txt
+valid=../mouse_yolotest/cfg/val.txt
+names=../mouse_yolotest/cfg/mouse_yolotest.names
+backup=../mouse_yolotest/cfg/weights
